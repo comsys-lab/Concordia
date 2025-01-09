@@ -1,0 +1,2 @@
+Number of layers: 24
+Number of heads: 16

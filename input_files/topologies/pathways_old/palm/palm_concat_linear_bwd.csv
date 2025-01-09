@@ -1,0 +1,3 @@
+Layer name, IFMAP Height, IFMAP Width, Filter Height, Filter Width, Channels, Num Filter, Strides,
+igd_Concat_Linear,2048,2,1,1,18432,1536,1,
+wgd_Concat_Linear,1536,2,1,2,2048,18432,1,

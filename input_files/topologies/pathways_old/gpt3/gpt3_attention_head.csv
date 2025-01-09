@@ -1,0 +1,6 @@
+Layer name, IFMAP Height, IFMAP Width, Filter Height, Filter Width, Channels, Num Filter, Strides,
+Masked_MH_get_Q_head0,2048,2,1,1,12288,32,1,
+Masked_MH_get_K_head0,2048,2,1,1,12288,32,1,
+Masked_MH_get_V_head0,2048,2,1,1,12288,32,1,
+Masked_MH_QxKT_head0,2048,2,1,1,32,2048,1,
+Masked_MH_QxKTxV_head0,2048,2,1,1,2048,32,1,
